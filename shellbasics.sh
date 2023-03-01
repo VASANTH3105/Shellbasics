@@ -7,6 +7,7 @@ echo "Welcome $name"
 echo -n "Congratulations! You just created and ran your first shell script "
 echo "using Bash in IBM Skills Network"
 
+
 #theia@theia-vasanthit212:/home/project$ ls -l greet.sh
 #-rw-r--r-- 1 theia users 178 Feb 26 01:11 greet.sh
 #theia@theia-vasanthit212:/home/project$ bash greet.sh
