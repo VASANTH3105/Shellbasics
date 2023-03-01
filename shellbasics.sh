@@ -37,6 +37,7 @@ dog
 goldfish
 goldfish
 
+
 If you only use sort on pets.txt, you get:
 
 $ sort pets.txt
